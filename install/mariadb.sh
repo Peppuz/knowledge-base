@@ -16,3 +16,4 @@ MariaDB [(none)]> exit ;
 mysql -u admin -p
 CREATE DATABASE new_database;
 mysql -u admin -p new_database < data-dump.sql
+
